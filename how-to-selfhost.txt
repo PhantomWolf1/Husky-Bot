@@ -1,0 +1,2 @@
+In order for self hosting with SQL you need a database(you can get one at remotemysql.com) just change the SQL database in the var con to your info.
+TThen you need to make a bot(search it on yt.) and replace process.env.token to your token.
