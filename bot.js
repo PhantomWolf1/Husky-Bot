@@ -18,7 +18,7 @@ bot.on('ready', () => {
 });
 
 function genXP() {
-  return Math.floor(Math.random() * 15 - 1 + 1) + 10 
+  return Math.floor(Math.random() * 7) + 5 
 }
 
 var con = mysql.createConnection({
